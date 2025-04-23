@@ -1,0 +1,11 @@
+.env
+.ipynb_checkpoints
+__pycache__
+artifacts
+lora
+models
+datasets
+results
+label_studio.sqlite3*
+cache.db
+model.cache
